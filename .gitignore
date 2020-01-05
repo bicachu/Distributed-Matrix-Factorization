@@ -1,0 +1,8 @@
+.idea/
+target/
+Makefile
+*.iml
+.DS_Store
+
+!input/small.txt
+*.jar
